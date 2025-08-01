@@ -1,0 +1,1 @@
+// QuoteSection.js component placeholder

@@ -1,0 +1,1 @@
+// WalletDashboard.js component placeholder

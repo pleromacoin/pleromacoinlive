@@ -1,0 +1,1 @@
+// CoinDisplay.js component placeholder
