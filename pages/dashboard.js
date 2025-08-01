@@ -1,0 +1,1 @@
+// Full dashboard page with WalletDashboard and tab logic

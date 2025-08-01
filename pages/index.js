@@ -1,0 +1,1 @@
+// Full homepage with all components (Header, Footer, CoinDisplay, etc.)
