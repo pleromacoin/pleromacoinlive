@@ -1,0 +1,29 @@
+.header {
+  background: rgba(10, 25, 47, 0.9);
+  backdrop-filter: blur(10px);
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.logoText {
+  background: linear-gradient(to right, #d4af37, #f2d57e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+.navLink {
+  color: #e6e6e6;
+  transition: color 0.3s ease;
+}
+.navLink:hover {
+  color: #d4af37;
+}

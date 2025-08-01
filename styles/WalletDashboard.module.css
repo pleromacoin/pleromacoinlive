@@ -1,0 +1,18 @@
+.dashboard {
+  padding: 2rem;
+  background: #0a192f;
+  color: #e6e6e6;
+}
+.walletPanel {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 2rem;
+  border-radius: 10px;
+}
+.copyButton {
+  background: rgba(212, 175, 55, 0.2);
+  color: #d4af37;
+  border: 1px solid #d4af37;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
