@@ -1,1 +1,0 @@
-// Final version of CoinDisplay.js

@@ -1,1 +1,0 @@
-// Final version of QuoteSection.js
