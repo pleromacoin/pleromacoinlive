@@ -16,15 +16,24 @@ export default function Home() {
     }}>
       <Image
         src="/images/pleroma-seal.png"
-        alt="Pleroma Coin Seal"
+        alt="Pleroma Seal"
         width={180}
         height={180}
       />
-      <h1 style={{ fontSize: '2.8rem', color: '#d4af37', marginTop: '2rem' }}>
+      <h1 style={{
+        fontSize: '2.8rem',
+        color: '#d4af37',
+        marginTop: '2rem'
+      }}>
         🌌 Pleroma Coin
       </h1>
-      <p style={{ maxWidth: '700px', marginTop: '1rem', fontSize: '1.2rem', lineHeight: '1.6' }}>
-        A decentralized cryptocurrency inspired by Gnostic philosophy. In Logos, Fullness.
+      <p style={{
+        maxWidth: '700px',
+        marginTop: '1rem',
+        fontSize: '1.2rem',
+        lineHeight: '1.6'
+      }}>
+        A decentralized cryptocurrency inspired by Gnostic philosophy. Built for wisdom, self-sovereignty, and value beyond speculation.
       </p>
       <a href="/dashboard" style={{
         marginTop: '2rem',
